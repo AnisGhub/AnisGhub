@@ -5,8 +5,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+about+Learning;Addicted+to+Coffee" alt="Typing SVG" /></a>
 
 - 🌍  I'm based in Toulouse, France
-- 🔭 I’m currently working on web development technologies
-- 🌱 I’m currently learning everything related Javascript 
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning everything related ReactJS 
 - 🦾 Future goals: mobile technologies
 
 
